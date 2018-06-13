@@ -1,0 +1,8 @@
+D:\Downloads\task-manager-mvc5\TaskManager.MVC5.Model\bin\Debug\TaskManager.MVC5.Model.dll.config
+D:\Downloads\task-manager-mvc5\TaskManager.MVC5.Model\bin\Debug\TaskManager.MVC5.Model.dll
+D:\Downloads\task-manager-mvc5\TaskManager.MVC5.Model\bin\Debug\TaskManager.MVC5.Model.pdb
+D:\Downloads\task-manager-mvc5\TaskManager.MVC5.Model\bin\Debug\EntityFramework.dll
+D:\Downloads\task-manager-mvc5\TaskManager.MVC5.Model\bin\Debug\EntityFramework.xml
+D:\Downloads\task-manager-mvc5\TaskManager.MVC5.Model\obj\Debug\TaskManager.MVC5.Model.csprojResolveAssemblyReference.cache
+D:\Downloads\task-manager-mvc5\TaskManager.MVC5.Model\obj\Debug\TaskManager.MVC5.Model.dll
+D:\Downloads\task-manager-mvc5\TaskManager.MVC5.Model\obj\Debug\TaskManager.MVC5.Model.pdb
